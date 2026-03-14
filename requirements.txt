@@ -1,0 +1,8 @@
+flask
+face-recognition
+opencv-python-headless
+imutils
+gevent
+werkzeug
+requests
+pillow
